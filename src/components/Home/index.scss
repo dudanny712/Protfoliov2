@@ -14,7 +14,7 @@
     margin: 0;
     font-family: 'Coolvetica';
     font-weight: 400px;
-    letter-spacing: 3px;
+    letter-spacing: 7px;
     &::before {
       content: '<h1>';
       font-family: 'La Belle Aurore';
@@ -33,7 +33,7 @@
       position: absolute;
       margin-top: 18px;
       margin-left: 20px;
-      animation: fadeIn 1s 1.7s backwards;
+      animation: fadeIn 1s 1.6s backwards;
       opacity: 0.6;
     }
     img {
